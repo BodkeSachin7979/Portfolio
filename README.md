@@ -1,258 +1,171 @@
-# 🚀 Data Analyst Portfolio 
-
 <div align="center">
 
-![GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sachin%20Bodke&fontSize=60&fontAlignY=35&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=160&section=header&text=Sachin%20Bodke&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=18" />
 
-**Data Analyst | Python Developer | SQL Specialist | Power BI Expert**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=560&lines=Building+with+LLMs+%2B+RAG;Applied+ML%2C+not+just+notebooks;Fresher+%E2%80%94+learning+in+public" alt="Typing SVG" />
 
+<br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bodkesachin7979.github.io/Sachin_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinbodke/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinbodke7979@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BodkeSachin7979)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white)](https://bodkesachin7979.github.io/Sachin_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2575FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinbodke/)
+[![Gmail](https://img.shields.io/badge/Email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinbodke7979@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2575FC?style=for-the-badge&logo=googledrive&logoColor=white)](#-add-resume-link)
+
+<img src="https://komarev.com/ghpvc/?username=BodkeSachin7979&color=2575FC&style=flat-square&label=Profile+Views" />
 
 </div>
 
-## 📊 Professional Summary
+<br>
 
-> *Transforming raw data into actionable insights through advanced analytics, visualization, and automation*
+## About Me
 
-Detail-driven Data Analyst with foundational skills in SQL, Python (Pandas), Power BI, and EDA. Proficient in data cleaning, visualization, and reporting, with a strong interest in delivering data-driven insights to inform business decisions
----
+I build applied ML and LLM-based systems — not just train models in a notebook, but get them to a point where something else can call them. Background in data analysis, now focused on the AI/ML side: retrieval-augmented generation, applied deep learning, and model deployment.
 
-## 🛠 Technical Stack
-
-### **Data Analysis & Visualization**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-### **Machine Learning & Statistics**
-[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![StatsModels](https://img.shields.io/badge/StatsModels-8C4C94?style=for-the-badge&logo=python&logoColor=white)](https://www.statsmodels.org/)
-
-### **Databases & SQL**
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-
-### **Business Intelligence & Visualization Tools**
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-### **Development & Tools**
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
----
-
-## 🎯 Featured Projects
-
-### 📊 **Netflix Data Analysis** | SQL Analytics
-*Comprehensive analytical case study using advanced SQL techniques*
-```sql
--- Example: Advanced window functions and CTEs
-WITH ranked_content AS (
-    SELECT 
-        title,
-        type,
-        release_year,
-        RANK() OVER (PARTITION BY type ORDER BY release_year DESC) as recency_rank
-    FROM netflix_titles
-)
-SELECT * FROM ranked_content WHERE recency_rank <= 5;
-```
-**🔧 Technologies:** PostgreSQL, Window Functions, CTEs, String Parsing  
-**📈 Insights:** Content trends, release patterns, genre analysis
-
----
-
-### 📈 **Sales Analytics Dashboard** | Power BI
-*Interactive sales reporting with comprehensive business metrics*
-- **DAX Measures & KPIs**: Revenue growth, YoY comparison, regional performance
-- **Interactive Features**: Drill-down capabilities, slicers, filters
-- **Visual Analytics**: Geographic mapping, trend analysis, performance indicators
-
-**🛠 Tools:** Power BI, DAX, Data Modeling  
-**📊 Output:** Executive dashboards, sales performance reports
-
----
-
-### 🔍 **Retail Customer EDA** | Python Pandas
-*Comprehensive exploratory data analysis for customer segmentation*
 ```python
-# Customer segmentation analysis
-customer_segments = df.groupby('segment').agg({
-    'purchase_amount': ['mean', 'count', 'sum'],
-    'frequency': 'mean'
-}).round(2)
+class SachinBodke:
+    def __init__(self):
+        self.focus        = "AI / ML Engineering"
+        self.status       = "Fresher — hands-on with real projects"
+        self.base         = "India"
+        self.availability = "Immediate"
+
+    def ai_stack(self):
+        return ["LangChain", "RAG pipelines", "Hugging Face",
+                "TensorFlow", "Scikit-Learn", "Prompt Engineering"]
+
+    def building_now(self):
+        return "A retrieval-augmented generation (RAG) application"
+
+    def open_to(self):
+        return ["ML Engineer Intern", "Junior AI/ML Developer", "Applied ML roles"]
 ```
-**📋 Analysis:** Data cleaning, outlier detection, behavioral patterns  
-**🔬 Techniques:** Statistical analysis, clustering, correlation studies
 
----
+<br>
 
-## 🧪 Development Projects
+## Featured Work
 
-# Retail Sales Analysis - SQL Project
+<table>
+<tr>
+<td width="50%" valign="top">
 
-SQL analysis of retail sales data to uncover business insights and customer patterns.
+### 🏥 Liver Cancer Prediction
+Binary classification model for risk prediction, wrapped in a Flask API and containerized with Docker so it runs as a standalone service rather than a notebook cell.
 
-## 📊 Analysis Focus
-- Sales performance by category
-- Customer demographics & behavior  
-- High-value transactions
-- Time-based sales trends
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-6A11CB?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-2575FC?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-6A11CB?style=flat-square&logo=docker&logoColor=white)
 
-## 🛠️ SQL Skills
-- Data cleaning & validation
-- Aggregations & groupings
-- Window functions
-- Time series analysis
+[View Code](#-add-repo-link) &nbsp;·&nbsp; [Live Demo](#-add-demo-link)
 
-## 📈 Key Insights
-- Best-selling categories & months
-- Top 5 customers by spending
-- Gender-based shopping patterns
-- Peak sales periods
+</td>
+<td width="50%" valign="top">
 
-## 📁 Files
-- Database schema setup
-- Data cleaning queries
-- Business analysis queries
-- Insights summary
+### 👤 Face Recognition Attendance
+Real-time face detection and recognition pipeline using FaceNet embeddings, logging attendance automatically without manual entry.
 
+![Python](https://img.shields.io/badge/-Python-2575FC?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-6A11CB?style=flat-square&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-2575FC?style=flat-square)
 
----
-# 🎯Library Management System - SQL
+[View Code](#-add-repo-link) &nbsp;·&nbsp; [Live Demo](#-add-demo-link)
 
-A complete database solution for library operations built with PostgreSQL.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Database Schema
-- 6 normalized tables with proper relationships
-- Handles books, members, employees, and transactions
-- Supports CRUD operations and complex queries
+### 🎬 Netflix Content Analytics
+SQL and Python analysis of a large content catalog to surface trends by genre, region, and rating — the data foundation work that led me toward ML.
 
-## Key Features
-- Book issuing/returning with availability checks
-- Member management and tracking
-- Rental income analysis
-- Automated procedures for common tasks
+![SQL](https://img.shields.io/badge/-SQL-6A11CB?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-2575FC?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-6A11CB?style=flat-square&logo=powerbi&logoColor=white)
 
-## Technical Skills
-- Database design and normalization
-- Complex SQL queries with joins
-- Stored procedures and functions
-- Data aggregation and reporting
+[View Code](#-add-repo-link) &nbsp;·&nbsp; [Live Demo](#-add-demo-link)
 
-## Project Files
-- Database schema setup
-- Sample data and queries
-- Stored procedures
-- Analysis reports
-  
----
-# 🧪 Development Projects
-### 🤖 **Face Recognition System**
-- Real-time face detection and recognition
-- FaceNet model implementation
-- Live video processing capabilities
+</td>
+<td width="50%" valign="top">
 
-### 🏥 **Liver Cancer Prediction App**
-- Machine learning classification model
-- Flask web application deployment
-- Medical data processing and analysis
+### 🤖 RAG Application <sub>*(in progress)*</sub>
+Retrieval-augmented generation app using LangChain — document ingestion, chunking, embeddings, and a vector store feeding an LLM for context-aware answers.
 
-### 🗺 **Tourister Guide**
-- Google Maps API integration
-- Location-based services
-- Interactive travel planning
+![LangChain](https://img.shields.io/badge/-LangChain-2575FC?style=flat-square)
+![Embeddings](https://img.shields.io/badge/-Embeddings-6A11CB?style=flat-square)
+![Vector DB](https://img.shields.io/badge/-Vector%20DB-2575FC?style=flat-square)
 
----
+[View Code](#-add-repo-link) &nbsp;·&nbsp; [Live Demo](#-add-demo-link)
 
-## 📈 GitHub Analytics
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+**AI / ML**
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch&theme=dark" />
 
-### 🏆 Achievement Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BodkeSachin7979&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15)
+<br><br>
 
-### 📊 Activity Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BodkeSachin7979&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BodkeSachin7979&layout=compact&theme=radical&hide_border=true)
-
-### 🔄 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BodkeSachin7979&theme=react-dark&hide_border=true&area=true)
-
-### 🐍 Contribution Snake
-![](https://github.com/BodkeSachin7979/BodkeSachin7979/blob/output/github-contribution-grid-snake.svg)
+![LangChain](https://img.shields.io/badge/LangChain-6A11CB?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-2575FC?style=flat-square&logo=huggingface&logoColor=white) ![RAG](https://img.shields.io/badge/RAG%20Pipelines-6A11CB?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2575FC?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-6A11CB?style=flat-square) ![Chroma](https://img.shields.io/badge/Chroma-2575FC?style=flat-square)
 
 </div>
 
----
+**Supporting Tools**
 
-## 🎯 Current Focus Areas
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,flask,docker,git,github,vscode&theme=dark" />
+</div>
+
+<br>
+
+## GitHub Activity
 
 <div align="center">
 
-| Domain | Skills in Progress |
-|--------|-------------------|
-| **📊 Advanced SQL** | Window Functions, Query Optimization, Performance Tuning |
-| **📈 Power BI** | Advanced DAX, Dashboard Design, Data Modeling |
-| **🤖 Python Automation** | Scripting, Workflow Automation, ETL Pipelines |
-| **🌐 Flask APIs** | RESTful Services, Data Applications, Deployment |
+<img src="https://github-readme-stats.vercel.app/api?username=BodkeSachin7979&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2575FC&icon_color=6A11CB&text_color=c9d1d9&hide=contribs,prs" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BodkeSachin7979&theme=tokyonight&hide_border=true&background=0D1117&stroke=2575FC&ring=6A11CB&fire=2575FC" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BodkeSachin7979&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2575FC&line=6A11CB&point=ffffff" width="95%"/>
 
 </div>
 
-## 📋 Repository Structure
+<br>
+
+## Contribution Snake 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BodkeSachin7979/BodkeSachin7979/output/github-contribution-grid-snake.svg" width="95%" />
+
+<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a one-time GitHub Action setup on your profile repo (see note below).</sub>
+
+</div>
+
+<br>
+
+## Currently
+
+```diff
++ Building a RAG application end-to-end with LangChain
++ Learning vector databases (FAISS, Chroma) for retrieval
++ Studying prompt engineering and evaluation for LLM apps
++ Reading up on MLOps basics for model deployment
 ```
-BodkeSachin7979/
-│
-├── 📊 Data-Analytics/
-│   ├── Netflix-Data-Analysis-Project
-│   ├── Sales-Data-Analysis-Power-BI
-│   └── Customer-Shopping-Trends-Analysis
-│
-├── 🤖 Machine-Learning/
-│   ├── Face-Recognition-Attendance-System
-│   └── Liver-Cancer-Prediction
-│
-├── 🌐 Web-Applications/
-│   ├── Tourister-Guide
-│   └── Sachin_Portfolio
-│
-├── 📚 Learning-Practice/
-│   ├── SQL-Practice
-│   └── Python-Programming
-│
-└── 🔧 Utilities-Templates/
-    ├── (Future: Data processing templates)
-    └── (Future: Analysis boilerplates)
-```
----
-## 📬 Let's Connect
+
+<br>
+
+## Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://bodkesachin7979.github.io/BodkeSachin7979/)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sachinbodke/)
-[![Email](https://img.shields.io/badge/📧_sachinbodke.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:sachinbodke7979@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/BodkeSachin7979)
-</div>
+Looking for **ML Engineer Intern** or **Junior AI/ML Developer** roles — remote or hybrid, based in India, available immediately.
 
-<div align="center">
+📧 [sachinbodke7979@gmail.com](mailto:sachinbodke7979@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sachinbodke/) &nbsp;·&nbsp; 🌐 [Portfolio](https://bodkesachin7979.github.io/Sachin_Portfolio/)
 
-### ⚡ **Turning Data into Decisions** ⚡
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=90&section=footer" />
 
 </div>
-
----
